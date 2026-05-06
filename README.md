@@ -48,13 +48,10 @@ python utils_sdf.py --base_path \main_path_to_build_the_dataset\ --sdf_m \path_t
 ```
     
 ## 3 GNNs training 
-To perform the GNN training sinply change the path in the reaction_processing.py file 
+To perform the GNN training simply change the path in the reaction_processing.py file 
 
 
 ```bash
-python Glucuronidation.py --root_path "main folder" --file_sdf_inf_p "sdf folder inference"
+python reaction_processing.py 
 ```
-
-## Usage
-Please read the notes.txt file for more information about this work. 
 
