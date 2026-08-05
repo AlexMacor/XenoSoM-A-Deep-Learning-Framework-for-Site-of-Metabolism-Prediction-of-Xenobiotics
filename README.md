@@ -1,4 +1,4 @@
-# XenoSoM: Graph neural networks for site of metabolism prediction of xenobiotics
+# XenoSoM: A Deep Learning Framework for Site-of-Metabolism Prediction of Xenobiotics
 
 Requirements
 * Python 3.13.0
